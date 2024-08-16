@@ -1,6 +1,11 @@
 ## Hi 👋, I'm Arlind Ramadani
 I'm a passionate developer experienced in both React.js and React Native, with 5+ years of experience in crafting dynamic and user-friendly web and mobile applications. I love diving deep into complex problems and turning them into simple and elegant solutions. My aim is to build robust and scalable applications that not only meet but exceed client expectations.
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-ArlindRamadani-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arlind-ramadani/)](https://www.linkedin.com/in/arlind-ramadani/)
+[![Upwork Badge](https://img.shields.io/badge/ArlindRamadani-6FDA44?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~013e045746133ddfba/)](https://www.upwork.com/freelancers/~013e045746133ddfba/)
+
+
 ## Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
